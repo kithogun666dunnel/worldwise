@@ -2,9 +2,9 @@ import { BrowserRouter, Route, Routes } from "react-router-dom"
 import Product from "./pages/product"
 import Pricing from "./pages/Pricing"
 import Homepage from "./pages/Homepage"
+import Login from "./pages/Login"
 import PageNotFound from "./pages/PageNotFound"
 import AppLayout from "./pages/AppLayout"
-import Login from "./pages/Login"
 
 function App() {
   return (
